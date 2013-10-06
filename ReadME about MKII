@@ -1,0 +1,10 @@
+don't give to Guac just yet because he should struggle with it for a bit,
+if he cannot figure it out, give this to him. This will make the robot move.
+The cool part of the code is that there is a threshold,
+because i was told to do it last year since joysticks are not perfect.
+and there is a sort of exponential curve for the joystick
+speed control to give more accuracy for lower speeds.
+This compiled without problems and since it has  " waitForStart();
+" among other things, it is FTC competition ready.
+This code is essentially a template for later code and has much room for expansion.
+
